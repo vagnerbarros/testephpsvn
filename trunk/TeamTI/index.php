@@ -10,7 +10,7 @@
 	</p>
 
 	<form action="upload_action.php" method="POST" enctype="multipart/form-data">
-		<input type="file" name="nfe"\>
+		<input type="file" name="ufile"\>
 		<input type="submit" value="Upload"\>
 	</form>
 </body>
