@@ -9,7 +9,7 @@
 		<b>Upload</b>.
 	</p>
 
-	<form action="../action/upload_action.php" method="POST" enctype="multipart/form-data">
+	<form action="../action/uploadAction.php" method="POST" enctype="multipart/form-data">
 		<input type="file" name="ufile"\>
 		<input type="submit" value="Upload"\>
 	</form>
