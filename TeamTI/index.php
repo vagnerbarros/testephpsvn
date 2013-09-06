@@ -1,17 +1,15 @@
+<?php 
+
+?>
+
 <html>
-
-<body>
-	<h3>Upload a file</h3>
-
-	<p>
-		You can add files to the system for review by an administrator. Click
-		<b>Browse</b> to select the file you'd like to upload, and then click
-		<b>Upload</b>.
-	</p>
-
-	<form action="upload_action.php" method="POST" enctype="multipart/form-data">
-		<input type="file" name="ufile"\>
-		<input type="submit" value="Upload"\>
-	</form>
-</body>
+	<head>
+		<title> Projeto Team Contabilidade TI</title>
+	</head>
+	<body>
+		<h2>Opões :</h2>
+		<div>
+		<a href="view/EnviarArquivoPage.php">Enviar Arquivo</a>
+		</div>
+	</body>
 </html>
